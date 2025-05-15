@@ -12,7 +12,7 @@ Aplicação: ferramenta para comunidades monitorarem e gerenciarem seu uso de en
 ## Como instalar e rodar
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/proj_consumo.git
+   git clone https://github.com/marcellefontoura/proj_consumo.git
    cd proj_consumo
    ```
 2. Instale dependências:  
